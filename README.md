@@ -7,4 +7,4 @@ This project integrates OpenAI's GPT-4 with JivoChat using a Node.js server.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/jivochat-gpt-integration.git
+   git clone https://github.com/polarspareklama/jivochat-gpt-integration.git
